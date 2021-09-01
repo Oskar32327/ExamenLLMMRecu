@@ -1,0 +1,33 @@
+{	
+	"peliculas":[
+		{
+	"titulo":"El señor de los anillos",	
+	"genero":"Accion",
+	"descripcion":"ASBDJBASDNASNDASDL",
+	"valoracion":7,
+	"duracion":180,
+	"imagen":"🌞",
+	"numeroCapitulos":"3"
+	},
+	{
+	"titulo":"Harry Potter",	
+	"genero":"Accion",
+	"descripcion":"OUASHDASODASODBOSBD",
+	"valoracion":9,
+	"duracion":120,
+	"imagen":"🌞",
+	"numeroCapitulos":"5",
+	}
+	],
+	"series":[
+	{
+	"titulo":"Los Simpsons",	
+	"genero":"Animacion",
+	"descripcion":"OASJNBDAOSNDNDONADSDOBADBADSBD",
+	"valoracion":10,
+	"duracion":20,
+	"imagen":"🌞",
+	"numeroCapitulos":"500",
+	}
+	]
+}
