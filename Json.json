@@ -1,0 +1,33 @@
+{	
+	"peliculas":[
+		{
+	"titulo":"El señor de los anillos",	
+	"genero":"Accion",
+	"descripcion":"Su historia se desarrolla en la Tercera Edad del Sol de la Tierra Media, un lugar ficticio poblado por hombres y otras razas antropomorfas como los hobbits, los elfos o los enanos, así como por muchas otras criaturas reales y fantásticas.",
+	"valoracion":7,
+	"duracion":180,
+	"imagen":"🌞",
+	"numeroCapitulos":"3"
+	},
+	{
+	"titulo":"Harry Potter",	
+	"genero":"Accion",
+	"descripcion":"Harry Potter es una serie de novelas fantásticas escrita por la autora británica J. K. Rowling, en la que se describen las aventuras del joven aprendiz de magia y hechicería Harry Potter y sus amigos Hermione Granger y Ron Weasley, durante los años que pasan en el Colegio Hogwarts de Magia y Hechicería.",
+	"valoracion":9,
+	"duracion":120,
+	"imagen":"🌞",
+	"numeroCapitulos":"5"
+	}
+	],
+	"series":[
+	{
+	"titulo":"Los Simpsons",	
+	"genero":"Animacion",
+	"descripcion":"La comedia de dibujos animados se centra en una familia que vive en la ciudad de Springfield. La cabeza de la familia Simpson es Homero, quien no es un hombre de familia típico, obrero de una planta nuclear, él hace lo mejor para poder liderar a su familia, pero frecuentemente se da cuenta que son ellos los que lo mandan.",
+	"valoracion":10,
+	"duracion":20,
+	"imagen":"🌞",
+	"numeroCapitulos":"500"
+	}
+	]
+}
